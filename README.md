@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Daniel Ortiz
 
-<!--
-**CarlosOrtiz230/CarlosOrtiz230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 M.S. student in Software Engineering at The University of Texas at El Paso  
+- 💻 Full-Stack Web Developer at the Center for Transportation Infrastructure Systems (CTIS)  
+- 🔬 Research contributor in geospatial analysis, ETL pipelines, and computer-vision transportation projects (YOLOv8)  
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
+- 📧 carlosortiz2345@outlook.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosdanortiz)  
+- 🌐 [Personal Website](https://carlosdanortiz.com)  
+- 🐙 [GitHub: carlosortizcs](https://github.com/carlosortizcs)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Example GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+
