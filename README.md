@@ -9,7 +9,7 @@
 - 📧 carlosortiz2345@outlook.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosdanortiz)  
 - 🌐 [Personal Website](https://carlosdanortiz.com)  
-- 🐙 [GitHub: carlosortizcs](https://github.com/carlosortizcs)  
+ 
 
 ---
 
