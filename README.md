@@ -17,6 +17,96 @@
 
 ---
 
+
+## 🧩 Projects
+
+A curated selection of **academic, research, and professional projects** showcasing expertise in  
+**full-stack software development, artificial intelligence, geospatial data systems, and cybersecurity**.  
+These works bridge computer-science research with practical engineering applications.
+
+---
+
+### 🔓 Public Projects
+
+- **[BRACANA SVET – Security Validation & Educational Tool](#bracana-svet)**  
+  A full-stack API security framework developed in **Laravel + Docker**, integrating **OWASP ZAP**, **Nikto**, and **Semgrep** (with **CodeQL** planned).  
+  Automates static and dynamic vulnerability scanning, classifies findings according to **OWASP Top-10 categories**, and delivers **AI-generated remediation guidance** via the OpenAI API.  
+  Validated on deliberately vulnerable environments (Flask, SvelteKit, DVWA) to ensure accurate detection of **XSS, SQL injection, and authentication flaws**.  
+  *(Developed under the UTEP Ethical Hacking Program.)*
+
+- **[Pothole Detection CV](#pothole-detection-cv)**  
+  A classical **computer-vision pipeline** for **road-surface distress detection**, implemented using **OpenCV** techniques such as edge detection, contour extraction,  
+  and morphological filtering. Built for infrastructure inspection and pavement-condition analysis using open roadway imagery datasets.  
+  The repository contains the **traditional CV-based version** of the project; an extended **YOLO-based deep-learning model** is currently under development and will be released separately.
+
+- **[AI Patrol Optimizer](#ai-patrol-optimizer)**  
+  Predictive-analytics platform for **law-enforcement patrol optimization**.  
+  Utilizes **Gradient Boosting** and **Random Forest** models to forecast high-risk areas and compute optimal routes through the **Google Maps API**.  
+  Enhances public-safety resource allocation with a data-driven, geospatially aware decision process.
+
+---
+
+### 🔒 Private / Restricted Projects
+
+> The following projects remain closed-source due to **institutional ownership**, **academic confidentiality**, or **security policies**.
+
+- **[PRF – Project Request Form System](#prf-project-request-form-system)**  
+  Internal Laravel-based platform for project submission and approval workflows.  
+  Developed using **Laravel (Blade, JavaScript, HTML, CSS)** and **MySQL**, replacing a legacy Access system.  
+  Features URL normalization middleware, input validation, and streamlined backend logic for stable multi-user performance.  
+  Designed for maintainability and long-term institutional deployment.
+
+- **[MWT – Multimodal Web Tool](#mwt-multimodal-web-tool)**  
+  A **Laravel GIS web application** for the **El Paso Metropolitan Planning Organization (MPO)**, integrating **Google Maps API** for visualizing multimodal transportation performance measures.  
+  Implements a **complete geospatial data pipeline** — from **data preprocessing in GeoPandas**, through **database structuring and backend logic**, to **frontend visualization** —  
+  ensuring spatial precision, visual clarity, and operational efficiency.  
+  🌐 [View MWT Portal](https://myctis.utep.edu/mpo/mwt/)
+
+- **[Crack Propagation Analysis – ML + CV Framework](#crack-propagation-analysis--ml--cv-framework)**  
+  Research platform designed to model **crack propagation dynamics** in laboratory-tested specimens using synchronized imagery and sensor data.  
+  Combines **computer vision tracking** with **machine-learning regression** to estimate crack-growth trajectories and detect early-stage propagation trends.  
+  Engineered to support predictive materials research through the fusion of visual, temporal, and experimental data.
+
+- **[INFILTR8 (Academic / Senior Project)](#infiltr8-academic--senior-project)**  
+  Capstone system built with **SvelteKit**, **FastAPI**, and **Neo4j**, emphasizing graph-based data modeling, modular authentication, and collaborative data handling.  
+  Contributed backend logic, API integration, and authentication workflows within a multidisciplinary team.  
+  *(Restricted — academic and security constraints.)*
+
+---
+
+### 🧠 Research & Educational Vision
+Each project blends **technical rigor** with **applied innovation**, advancing practical solutions in  
+**cybersecurity**, **AI-driven analytics**, and **geospatial software engineering** for real-world impact.
+
+---
+
+## 🔗 Repository Links
+
+- <a id="bracana-svet"></a>**BRACANA SVET – Security Validation & Educational Tool:**  
+  [github.com/CarlosOrtiz230/bracana-svet-laravel](https://github.com/CarlosOrtiz230/bracana-svet-laravel)
+
+- <a id="pothole-detection-cv"></a>**Pothole Detection CV:**  
+  [github.com/CarlosOrtiz230/Pothole-Detection-CV](https://github.com/CarlosOrtiz230/Pothole-Detection-CV)
+
+- <a id="ai-patrol-optimizer"></a>**AI Patrol Optimizer:**  
+  [github.com/CarlosOrtiz230/ai-patrol-optimizer](https://github.com/CarlosOrtiz230/ai-patrol-optimizer)
+
+- <a id="prf-project-request-form-system"></a>**PRF – Project Request Form System:**  
+  *(Internal deployment — not public)*
+
+- <a id="mwt-multimodal-web-tool"></a>**MWT – Multimodal Web Tool:**  
+  [myctis.utep.edu/mpo/mwt](https://myctis.utep.edu/mpo/mwt)
+
+- <a id="crack-propagation-analysis--ml--cv-framework"></a>**Crack Propagation Analysis – ML + CV Framework:**  
+  *(Private research repository)*
+
+- <a id="infiltr8-academic--senior-project"></a>**INFILTR8 (Academic / Senior Project):**  
+  *(Restricted — academic and security constraints)*
+
+
+
+
+
 ## 📘 Relevant Coursework
 
 ### **Software Engineering & Systems**
