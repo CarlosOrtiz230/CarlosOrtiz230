@@ -7,7 +7,7 @@
 
 ## 📫 Connect With Me
 - 📧 carlosortiz2345@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlosdanortiz)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosdortiz)  ](https://www.linkedin.com/in/carlosdortizcs/)
 - 🌐 [Personal Website](https://carlosdanortiz.com)  
 
 ---
