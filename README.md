@@ -24,7 +24,8 @@
 
 | Course | Description | Preview |
 |:-------|:-------------|:--------|
-| **Software Construction** | Building maintainable systems with modular components and version control. Focused on scalability and team collaboration. | <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Software construction animation"> |
+| **Software Construction** | Building maintainable systems with modular components and version control. Focused on scalability and team collaboration. |<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developers collaborating animation">
+ |
 | **Software Engineering: Design and Implementation** | Practical design methodologies using CRC cards and subsystem decomposition. Emphasis on protocols, testing strategies, and iterative refinement. | <img src="https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif" width="400" alt="Software engineering teamwork"> |
 | **Software Engineering: Requirements Elicitation** | Techniques to gather, analyze, and validate stakeholder needs. Learned communication-driven approaches to capture evolving requirements. | <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="400" alt="Requirements gathering animation"> |
 | **Agile Software Development** | Scrum methodology for incremental software delivery, emphasizing iteration, retrospectives, and adaptability in team environments. | <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Agile development animation"> |
