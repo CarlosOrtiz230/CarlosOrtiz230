@@ -57,4 +57,16 @@
 | **Computer Networks** | Protocols, routing, packet transfer, and distributed system communication. |
 | **Operating Systems** | Core OS concepts: process scheduling, concurrency, and memory management. |
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN5NzZ2cm1xdTR3Mm85cW9oMHN4cDA1MGg3NDE3ankwbDU0aXpnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="400" alt="Cybersecurity animation">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdhdTFoN2FoMXFvZHNncGg2b2JjN2RtNXJsZHJvaXY3M2d6cHYyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="400" alt="Cybersecurity animation">
+
+---
+
+## 🎞️ GIF Credits
+All GIFs are publicly available on [GIPHY](https://giphy.com):
+
+| Section | GIPHY ID | Link |
+|:--------|:----------|:-----|
+| **Header / Intro** | `qgQUggAC3Pfv687qPC` | [View](https://giphy.com/gifs/qgQUggAC3Pfv687qPC) |
+| **Software Engineering** | `EZr27ZbJwmjE9PGyLN` | [View](https://giphy.com/gifs/EZr27ZbJwmjE9PGyLN) |
+| **Artificial Intelligence** | `5k5vZwRFZR5aZeniqb` | [View](https://giphy.com/gifs/5k5vZwRFZR5aZeniqb) |
+| **Cybersecurity & Networks** | `115BJle6N2Av0A` | [View](https://giphy.com/gifs/115BJle6N2Av0A) |
