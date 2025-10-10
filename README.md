@@ -24,7 +24,7 @@
 | Course | Description |
 |:-------|:-------------|
 | **Software Construction** | Building maintainable systems with modular components and version control. Focused on scalability and team collaboration. |
-| **Software Engineering: Design and Implementation** | Practical design methodologies using CRC cards and subsystem decomposition. Emphasis on protocols, testing strategies, and iterative refinement. |
+| **Software Engineering: Design and Implementation** | Applied object-oriented design principles through CRC cards, software contracts, and subsystem decomposition. Implemented a large-scale capstone project using SvelteKit, FastAPI, and Neo4j, collaborating with a multidisciplinary team to apply real-world software design and implementation practices.. |
 | **Software Engineering: Requirements Elicitation** | Techniques to gather, analyze, and validate stakeholder needs. Learned communication-driven approaches to capture evolving requirements. |
 | **Agile Software Development** | Scrum methodology for incremental software delivery, emphasizing iteration, retrospectives, and adaptability in team environments. |
 | **Software Vulnerabilities** | Identifying weaknesses in code and architecture to prevent exploitation and enhance system resilience. |
