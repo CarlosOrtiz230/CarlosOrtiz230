@@ -97,11 +97,14 @@ Each project blends **technical rigor** with **applied innovation**, advancing p
 - <a id="mwt-multimodal-web-tool"></a>**MWT – Multimodal Web Tool:**  
   [myctis.utep.edu/mpo/mwt](https://myctis.utep.edu/mpo/mwt)
 
-- <a id="crack-propagation-analysis--ml--cv-framework"></a>**Crack Propagation Analysis – ML + CV Framework:**  
-  *(Private research repository)*
+- **[Crack Propagation Analysis](#crack-propagation-analysis)**  
+  Research framework applying **computer vision and machine learning** to study material-behavior trends during controlled testing.  
+  *(Technical details withheld for confidentiality.)*
 
-- <a id="infiltr8-academic--senior-project"></a>**INFILTR8 (Academic / Senior Project):**  
-  *(Restricted — academic and security constraints)*
+- **[INFILTR8 (Academic / Senior Project)](#infiltr8-academic--senior-project)**  
+  Full-stack academic platform built with **SvelteKit**, **FastAPI**, and **Neo4j**, exploring secure data management and collaborative modeling.  
+  *(Restricted — academic and security constraints.)*
+
 
 
 
