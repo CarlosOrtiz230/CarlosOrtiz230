@@ -32,7 +32,7 @@ These works bridge computer-science research with practical engineering applicat
   A full-stack API security framework developed in **Laravel + Docker**, integrating **OWASP ZAP**, **Nikto**, and **Semgrep** (with **CodeQL** planned).  
   Automates static and dynamic vulnerability scanning, classifies findings according to **OWASP Top-10 categories**, and delivers **AI-generated remediation guidance** via the OpenAI API.  
   Validated on deliberately vulnerable environments (Flask, SvelteKit, DVWA) to ensure accurate detection of **XSS, SQL injection, and authentication flaws**.  
-  *(Developed under the UTEP Ethical Hacking Program.)*
+ 
 
 - **[Pothole Detection CV](#pothole-detection-cv)**  
   A classical **computer-vision pipeline** for **road-surface distress detection**, implemented using **OpenCV** techniques such as edge detection, contour extraction,  
