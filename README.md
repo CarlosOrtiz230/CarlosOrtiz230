@@ -12,11 +12,12 @@
 
 ---
 
+<!-- main intro / generic / header GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
 
 ---
 
-##  Relevant Coursework
+## 📘 Relevant Coursework
 
 ### **Software Engineering & Systems**
 
@@ -28,7 +29,7 @@
 | **Agile Software Development** | Scrum methodology for incremental software delivery, emphasizing iteration, retrospectives, and adaptability in team environments. |
 | **Software Vulnerabilities** | Identifying weaknesses in code and architecture to prevent exploitation and enhance system resilience. |
 
-<img src="https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif" width="400" alt="Software engineering teamwork">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lpNThjNnl3ZDVubWZnOTF2bGpsd21nNWc4YXh4enhpYzQxMjMxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400" alt="Software engineering animation">
 
 ---
 
@@ -43,7 +44,7 @@
 | **Information Retrieval** | Ranking, query expansion, and evaluation of search systems for efficient knowledge discovery. |
 | **Computer Vision** | Fundamentals of computer vision, including image recognition, object detection (YOLO), and CNN-based feature analysis. |
 
-<img src="https://media.giphy.com/media/l4EpkVLqUj8BIz8cE/giphy.gif" width="400" alt="Computer vision animation">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRlenR2emd1bWtldXo1ZGpjeHlzNW81cGVwZG9scDVoYWphY3dociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="400" alt="AI animation">
 
 ---
 
@@ -56,4 +57,4 @@
 | **Computer Networks** | Protocols, routing, packet transfer, and distributed system communication. |
 | **Operating Systems** | Core OS concepts: process scheduling, concurrency, and memory management. |
 
-<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Cybersecurity animation">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN5NzZ2cm1xdTR3Mm85cW9oMHN4cDA1MGg3NDE3ankwbDU0aXpnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="400" alt="Cybersecurity animation">
