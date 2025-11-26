@@ -59,37 +59,33 @@ These works bridge computer-science research with practical engineering applicat
 
 ---
 
-### 🔒 Private / Restricted Projects
+### 🔓 Public Projects
 
-> The following projects remain closed-source due to **institutional ownership**, **academic confidentiality**, or **security policies**.
+- **BRACANA SVET – Security Validation & Educational Tool**
+A full-stack API security framework developed in Laravel + Docker, integrating OWASP ZAP, Nikto, and Semgrep (with CodeQL planned).
+Automates static and dynamic vulnerability scanning, classifies findings according to OWASP Top-10 categories, and provides AI-generated remediation guidance through the OpenAI API.
+Validated on deliberately vulnerable environments (Flask, SvelteKit, DVWA) to ensure accurate detection of XSS, SQL injection, and authentication flaws.
 
-- **[PRF – Project Request Form System](#prf-project-request-form-system)**  
-  Internal Laravel-based platform for project submission and approval workflows.  
-  Developed using **Laravel (Blade, JavaScript, HTML, CSS)** and **MySQL**, replacing a legacy Access system.  
-  Features URL normalization middleware, input validation, and streamlined backend logic for stable multi-user performance.  
-  Designed for maintainability and long-term institutional deployment.
+- **Pothole Detection CV**
+A classical computer-vision pipeline for road-surface distress detection, implemented using OpenCV (edge detection, contour extraction, morphological filtering).
+Designed for infrastructure inspection and pavement-condition analysis using roadway imagery datasets.
+This repository contains the traditional CV-based version; a YOLO-based deep-learning model is in development and will be released separately.
 
-- **[MWT – Multimodal Web Tool](#mwt-multimodal-web-tool)**  
-  A **Laravel GIS web application** for the **El Paso Metropolitan Planning Organization (MPO)**, integrating **Google Maps API** for visualizing multimodal transportation performance measures.  
-  Implements a **complete geospatial data pipeline** — from **data preprocessing in GeoPandas**, through **database structuring and backend logic**, to **frontend visualization** —  
-  ensuring spatial precision, visual clarity, and operational efficiency.  
-  🌐 [View MWT Portal](https://myctis.utep.edu/mpo/mwt/)
+- **AI Patrol Optimizer**
+Predictive-analytics platform for law-enforcement patrol optimization.
+Uses Gradient Boosting and Random Forest models to forecast high-risk areas and generate optimal patrol routes via the Google Maps API.
+Enhances public-safety resource allocation through geospatially informed decision-making.
 
-- **[Crack Propagation Analysis – ML + CV Framework](#crack-propagation-analysis--ml--cv-framework)**  
-  Research platform designed to model **crack propagation dynamics** in laboratory-tested specimens using synchronized imagery and sensor data.  
-  Combines **computer vision tracking** with **machine-learning regression** to estimate crack-growth trajectories and detect early-stage propagation trends.  
-  Engineered to support predictive materials research through the fusion of visual, temporal, and experimental data.
+- **Rently – Rental Management Platform**
+A modern, role-aware rental-management platform originally created by Nacim Elias for the Software Construction course.
+I am an authorized collaborator and active contributor, responsible for building the entire frontend implementation using React, TypeScript, Vite, and Shadcn UI.
+My work includes authentication flows, UI architecture, dashboard components, and integration-ready interfaces for future backend expansion.
+The project evolves sprint-by-sprint following clean modular design, coding standards, and formal documentation (SDD, SCM plan).
 
-- **[INFILTR8 (Academic / Senior Project)](#infiltr8-academic--senior-project)**  
-  Capstone system built with **SvelteKit**, **FastAPI**, and **Neo4j**, emphasizing graph-based data modeling, modular authentication, and collaborative data handling.  
-  Contributed backend logic, API integration, and authentication workflows within a multidisciplinary team.  
-  *(Restricted — academic and security constraints.)*
-
----
-
-### 🧠 Research & Educational Vision
-Each project blends **technical rigor** with **applied innovation**, advancing practical solutions in  
-**cybersecurity**, **AI-driven analytics**, and **geospatial software engineering** for real-world impact.
+- **T.H.R.E.A.T. – Tactical Hazard Recognition and Evaluation for Agent Safety**
+AI-driven safety system developed during UTEP Hackathon 2025 to analyze high-risk domestic-violence scenarios before officers arrive.
+Integrates autonomous drones, YOLOv8, AWS Rekognition, OpenAI LLMs + TTS, and n8n orchestration for real-time threat perception and situational awareness.
+Initially a hackathon prototype, now progressing toward a cloud-ready implementation with scalable and secure API pipelines.
 
 ---
 
