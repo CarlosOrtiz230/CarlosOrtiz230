@@ -44,6 +44,19 @@ These works bridge computer-science research with practical engineering applicat
   Utilizes **Gradient Boosting** and **Random Forest** models to forecast high-risk areas and compute optimal routes through the **Google Maps API**.  
   Enhances public-safety resource allocation with a data-driven, geospatially aware decision process.
 
+ -**[Rently] – (#Rental Management Platform)**
+
+  A modern, role-aware rental-management platform originally created by Nacim Elias for the Software Construction course.
+  I am an authorized collaborator and active contributor, responsible for building the entire frontend implementation using React, TypeScript, Vite, and Shadcn UI.
+  My work includes authentication flows, UI architecture, dashboard components, and integration-ready interfaces designed for future backend expansion.
+  The project is actively evolving sprint-by-sprint with clean modular design, coding standards, and traceability to the SDD and SCM plan.
+
+ **[ T.H.R.E.A.T.] – (Tactical Hazard Recognition and Evaluation for Agent Safety)**
+
+  AI-driven safety system developed during UTEP Hackathon 2025 to analyze high-risk domestic-violence situations before officers arrive.
+  Integrates autonomous drones, YOLOv8, AWS Rekognition, OpenAI LLMs + TTS, and n8n orchestration for real-time situational awareness.
+  Originally a hackathon prototype, now transitioning into a cloud-ready implementation with scalable, secure API pipelines.
+
 ---
 
 ### 🔒 Private / Restricted Projects
