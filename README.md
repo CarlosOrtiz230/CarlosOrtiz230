@@ -43,7 +43,7 @@ These works bridge computer-science research with practical engineering applicat
   Enhances public-safety resource allocation with a data-driven, geospatially aware decision process.
 
 - **[Rently – Rental Management Platform](#rently-rental-management-platform)**  
-  A modern, role-aware rental-management platform originally created by **Nacim Elias** for the Software Construction course.  
+  A modern, role-aware rental-management platform  created by **Nacim Elias** .  
   I am an **authorized collaborator and active contributor**, responsible for building the **entire frontend implementation** using **React, TypeScript, Vite, and Shadcn UI**.  
   My work includes authentication flows, UI architecture, dashboard components, and integration-ready interfaces designed for future backend expansion.  
   The project is actively evolving sprint-by-sprint with clean modular design, coding standards, and traceability to the SDD and SCM plan.
