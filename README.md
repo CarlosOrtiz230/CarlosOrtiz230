@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 M.S. student in Software Engineering at The University of Texas at El Paso  
-- 💻 Full-Stack Web Developer at the Center for Transportation Infrastructure Systems (CTIS)  
+- 💻 Full-Stack Developer at the Center for Transportation Infrastructure Systems (CTIS)  
 - 🔬 Research contributor in geospatial analysis, ETL pipelines, and computer-vision transportation and asphalt analysis projects (YOLOv8)  
 
 ## 📫 Connect With Me
@@ -20,7 +20,7 @@
 ## 🧩 Projects
 
 A curated selection of **academic, research, and professional projects** showcasing expertise in  
-**full-stack software development, artificial intelligence, geospatial data systems, and cybersecurity**.  
+**full-stack software development, artificial intelligence, geospatial data systems,computer vision and cybersecurity**.  
 These works bridge computer-science research with practical engineering applications.
 
 ---
@@ -63,7 +63,7 @@ These works bridge computer-science research with practical engineering applicat
   Internal Laravel-based platform for project submission and approval workflows.  
   Developed using **Laravel (Blade, JavaScript, HTML, CSS)** and **MySQL**, replacing a legacy Access system.  
   Features URL normalization middleware, input validation, and streamlined backend logic for stable multi-user performance.  
-  Designed for maintainability and long-term institutional deployment.
+  Designed for maintainability and long-term institutional deployment. Used by El Paso Metropolitan Organization (City of El Paso).
 
 - **[MWT – Multimodal Web Tool](#mwt-multimodal-web-tool)**  
   A **Laravel GIS web application** for the **El Paso Metropolitan Planning Organization (MPO)**, integrating **Google Maps API** for visualizing multimodal transportation performance measures.  
@@ -72,9 +72,7 @@ These works bridge computer-science research with practical engineering applicat
   🌐 [View MWT Portal](https://myctis.utep.edu/mpo/mwt/)
 
 - **[Crack Propagation Analysis – ML + CV Framework](#crack-propagation-analysis)**  
-  Research platform designed to model **crack propagation dynamics** in laboratory-tested specimens using synchronized imagery and sensor data.  
-  Combines **computer vision tracking** with **machine-learning regression** to estimate crack-growth trajectories and detect early-stage propagation trends.  
-  Engineered to support predictive materials research through the fusion of visual, temporal, and experimental data.
+  Research platform designed around the Texas (TxDOT) Overlay Test to model asphalt crack propagation dynamics in laboratory-tested specimens by fusing synchronized left and right videos with per-frame deformation (CSV) data, aligning visual events to the      experimental timeline so crack initiation, growth rate, and cumulative crack length can be quantified; it combines computer-vision tracking (strain/feature fields, heatmaps, and crack-path extraction) with machine-learning regression to estimate crack-growth trajectories, detect early-stage propagation trends, and enable predictive materials research through integrated visual, temporal, and test-condition signals, with reproducible exports and reporting for each specimen and replicate.
 
 - **[INFILTR8 (Academic / Senior Project)](#infiltr8-academic--senior-project)**  
   Capstone system built with **SvelteKit**, **FastAPI**, and **Neo4j**, emphasizing graph-based data modeling, modular authentication, and collaborative data handling.  
